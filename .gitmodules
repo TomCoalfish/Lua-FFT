@@ -1,0 +1,54 @@
+[submodule "pocketfft"]
+	path = pocketfft
+	url = https://github.com/mreineck/pocketfft
+[submodule "pocketfft-improved"]
+	path = pocketfft-improved
+	url = https://github.com/hayguen/pocketfft
+[submodule "pocketfft-c"]
+	path = pocketfft-c
+	url = https://github.com/jcelerier/pocketfft
+[submodule "pffft"]
+	path = pffft
+	url = https://github.com/marton78/pffft
+[submodule "pffft-bluestein"]
+	path = pffft-bluestein
+	url = https://github.com/cpuimage/pffft
+[submodule "VkFFT"]
+	path = VkFFT
+	url = https://github.com/DTolm/VkFFT
+[submodule "CUDA-FFT-Convolution"]
+	path = CUDA-FFT-Convolution
+	url = https://github.com/chrischoy/CUDA-FFT-Convolution
+[submodule "Teensy-FFT-Convolution-Filter"]
+	path = Teensy-FFT-Convolution-Filter
+	url = https://github.com/bmillier/Teensy-FFT-Convolution-Filter
+[submodule "tinyfft"]
+	path = tinyfft
+	url = https://github.com/ryuhei-mori/tinyfft
+[submodule "SignalProcessing"]
+	path = SignalProcessing
+	url = https://github.com/IdsAndriesse/SignalProcessing
+[submodule "ffts"]
+	path = ffts
+	url = https://github.com/anthonix/ffts
+[submodule "kissfft"]
+	path = kissfft
+	url = https://github.com/mborgerding/kissfft
+[submodule "clFFT"]
+	path = clFFT
+	url = https://github.com/clMathLibraries/clFFT
+[submodule "xfft"]
+	path = xfft
+	url = https://github.com/XiuYuLi/xfft
+[submodule "fftResample"]
+	path = fftResample
+	url = https://github.com/cpuimage/fftResample
+[submodule "FFTResampler"]
+	path = FFTResampler
+	url = https://github.com/cpuimage/FFTResampler
+[submodule "OouraFFT"]
+	path = OouraFFT
+	url = https://github.com/biotrump/OouraFFT
+[submodule "fft_band_equalizer"]
+	path = fft_band_equalizer
+	url = https://github.com/kappalabs/fft_band_equalizer
